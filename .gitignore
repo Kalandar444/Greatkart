@@ -1,0 +1,18 @@
+# Python environment
+venv/
+env/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases (Render ನಲ್ಲಿ ಹೊಸ ಡೇಟಾಬೇಸ್ ಬಳಸುತ್ತೇವೆ)
+*.sqlite3
+
+# Static files (Render ನಲ್ಲೇ ಜನರೇಟ್ ಆಗುತ್ತದೆ)
+staticfiles/
+
+# Security (ಇದು ತುಂಬಾ ಮುಖ್ಯ)
+.envgit init
